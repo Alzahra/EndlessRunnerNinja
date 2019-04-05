@@ -26,6 +26,7 @@ public class PlayerController : MonoBehaviour {
 
     private void Awake()
     {
+        Time.timeScale = 1f;
         WriteLife(health);
     }
 
