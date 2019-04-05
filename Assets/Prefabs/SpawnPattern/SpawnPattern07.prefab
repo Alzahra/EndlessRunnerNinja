@@ -67,6 +67,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4519173731919854}
+  - component: {fileID: 114952773563553344}
   m_Layer: 0
   m_Name: SpawnPattern07
   m_TagString: Untagged
@@ -165,3 +166,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacle: {fileID: 1148490385083052, guid: 7a3b2b4480a4bf3429fe1372452f9674, type: 2}
+--- !u!114 &114952773563553344
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1897710048930826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3762de8b4e38f34e98ffc554bbfb34b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  time: 5

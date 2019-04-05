@@ -918,7 +918,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 666fa31fed4ce444a89d27c23ca8ef6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 461180568}
   effect: {fileID: 1580142100277820, guid: bc5ddf6a2f9c2fc40842aa26a5e6e75b, type: 2}
   health: 5
   Yincrement: 2
